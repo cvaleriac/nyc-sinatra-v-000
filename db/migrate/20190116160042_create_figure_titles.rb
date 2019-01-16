@@ -5,3 +5,4 @@ class CreateFigureTitles < ActiveRecord::Migration
      t.integer :title_id
   end
 end
+end
