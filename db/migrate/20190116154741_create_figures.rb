@@ -4,3 +4,4 @@ class CreateFigures < ActiveRecord::Migration
       t.string :name
   end
 end
+end
